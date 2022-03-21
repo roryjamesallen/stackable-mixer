@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20.0mm"
+   height="128.5mm"
+   viewBox="0 0 20.0 128.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Panel.svg"
+   inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\Panel.png"
+   inkscape:export-xdpi="379.51752"
+   inkscape:export-ydpi="379.51752"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.2644472"
+     inkscape:cx="-18.839331"
+     inkscape:cy="215.3504"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g35987"
+     style="display:inline">
+    <rect
+       x="0"
+       y="0"
+       width="20"
+       height="128.5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect35985" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect31"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5"
+       d="M 0,0 H 20 V 128.5 H 0 Z" />
+    <path
+       id="rect1257"
+       style="fill:none;stroke:#000000;stroke-width:0.25"
+       transform="scale(1, -1)"
+       d="m 9,-105.25 h 2 v 46 H 9 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Drill"
+     style="display:inline">
+    <circle
+       style="display:inline;fill:#000000;stroke-width:0.264583"
+       id="path500"
+       cx="5"
+       cy="17.5"
+       r="3.125" />
+    <circle
+       style="display:inline;fill:#000000;stroke-width:0.264583"
+       id="circle1027"
+       cx="14.975"
+       cy="17.5"
+       r="3.125" />
+    <circle
+       style="display:inline;fill:#000000;stroke-width:0.264583"
+       id="circle1131"
+       cx="10"
+       cy="39.775002"
+       r="3.5" />
+    <circle
+       style="display:inline;fill:#000000;stroke-width:0.264583"
+       id="circle1441"
+       cx="10"
+       cy="116.5"
+       r="1.5" />
+    <circle
+       style="display:inline;fill:#000000;stroke-width:0.264583"
+       id="circle2032"
+       cx="15.7"
+       cy="3"
+       r="1.6" />
+    <circle
+       style="display:inline;fill:#000000;stroke-width:0.264583"
+       id="circle2136"
+       cx="15.7"
+       cy="125.5"
+       r="1.6" />
+  </g>
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g35989"
+     style="display:inline" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g35991"
+     style="display:inline" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g35993"
+     style="display:inline" />
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g35995"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="B.SilkS"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:2.94092px;line-height:1;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+       x="-14.91325"
+       y="11.434366"
+       id="text7201"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-14.91325"
+         y="11.434366"
+         id="tspan22627">left</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.94092px;line-height:1;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+       x="-4.9438624"
+       y="11.419662"
+       id="text20555"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-4.9438624"
+         y="11.419662"
+         id="tspan21893">right</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.94092px;line-height:1;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+       x="-10.235212"
+       y="30.69849"
+       id="text23205"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-10.235212"
+         y="30.69849"
+         id="tspan23203">balance</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,47.354167 c 4.7404223,0 6.3383198,4.54655 10,4.54655 3.66168,0 5.259577,-4.54655 10,-4.54655"
+       id="path23558"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,51.900717 c 4.7404223,0 6.3383198,-4.54655 10,-4.54655 3.66168,0 5.259577,4.54655 10,4.54655"
+       id="path26385"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,48.4125 c 4.7404223,0 6.5696722,2.429884 10,2.429884 3.430328,0 5.259577,-2.429884 10,-2.429884"
+       id="path26539"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#070000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,50.842384 c 4.7404223,0 6.5696722,-2.429884 10,-2.429884 3.430328,0 5.259577,2.429884 10,2.429884"
+       id="path27531"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,114.2288 c 4.7404223,0 5.8940378,7.19238 10,7.19238 4.105962,0 5.259577,-7.19238 10,-7.19238"
+       id="path38609"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,118.77535 c 4.7404223,0 5.8940359,-7.19239 10,-7.19239 4.105964,0 5.259577,7.19239 10,7.19239"
+       id="path38611"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,115.28713 c 4.7404223,0 6.2618642,5.07572 10,5.07572 3.738136,0 5.259577,-5.07572 10,-5.07572"
+       id="path38613"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#070000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,117.71701 c 4.7404223,0 6.2618657,-5.07571 10,-5.07571 3.738134,0 5.259577,5.07571 10,5.07571"
+       id="path38615"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,24.600001 c 4.7404223,0 6.5696724,2.429882 10,2.429882 3.430328,0 5.259577,-2.429882 10,-2.429882"
+       id="path41731"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,27.029883 c 4.7404223,0 6.5696724,-2.429882 10,-2.429882 3.430328,0 5.259577,2.429882 10,2.429882"
+       id="path41733"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,25.129167 c 4.7404223,0 6.6354603,1.37155 10,1.37155 3.36454,0 5.259577,-1.37155 10,-1.37155"
+       id="path41735"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#070000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,26.500717 c 4.7404223,0 6.6354603,-1.37155 10,-1.37155 3.36454,0 5.259577,1.37155 10,1.37155"
+       id="path41737"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="C:\Users\roryj\Documents\Allen Synthesis\Modules\Stackable Mixer\Stackable Mixer KiCad\path23558.png"
+       inkscape:export-xdpi="379.51752"
+       inkscape:export-ydpi="379.51752" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,35.017008 v -2.92286"
+       id="path43251"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.94092px;line-height:1;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+       x="-18.029505"
+       y="45.612713"
+       id="text43467"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-18.029505"
+         y="45.612713"
+         id="tspan43465">L</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-18.029505"
+         y="48.553635"
+         id="tspan43759" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.94092px;line-height:1;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+       x="-2.1545045"
+       y="45.612713"
+       id="text45261"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-2.1545045"
+         y="45.612713"
+         id="tspan45257">R</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.0735232"
+         x="-2.1545045"
+         y="48.553635"
+         id="tspan45259" /></text>
+  </g>
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g35997"
+     style="display:inline" />
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g35999"
+     style="display:inline" />
+</svg>
