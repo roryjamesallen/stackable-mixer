@@ -1,4 +1,4 @@
-20155528784047071
+20158829235066564
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52129,6 +52129,20 @@ Header 01x07 2.0mm Right Angle Male
 7
 7
 Eurorack
+Header 01x12 2.0mm Right Angle Female
+
+
+0
+12
+12
+Eurorack
+Header 01x12 2.0mm Right Angle Male
+
+
+0
+12
+12
+Eurorack
 LED 3mm
 
 
@@ -52199,7 +52213,7 @@ Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diamete
 2
 2
 Eurorack
-Switch Sub-Miniature Latching DPDT
+Sub-Miniature Toggle Switch DPDT
 
 
 0
