@@ -1,5 +1,7 @@
 # stackable-mixer
 A versatile, affordable, free hardware, stereo mixer for Eurorack
+
+![PXL_20220402_175002314](https://user-images.githubusercontent.com/79809962/162210492-6c61eca1-cbe9-4b99-a006-c54959413440.png)
   
 Each input channel has either mono or stereo inputs, a balance control, a mute switch, and a volume control.
 The output stage has a stereo TRS (headphone) output, but patching into the right input will break the normalling, allowing you to output stereo over two mono cables.
